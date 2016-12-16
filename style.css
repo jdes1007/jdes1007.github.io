@@ -11,7 +11,7 @@
 }
 .picture {display: block; margin: 0px auto;border 5px; height: 30%;width: 30%}
 
-p {font-size: 3vw }
+p {font-size: 10vw }
 /*--[normal CSS styles]----------------------------------------------------------------*/
 
 @media only screen and (min-width: 801px){
