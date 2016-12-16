@@ -1,11 +1,15 @@
 /*--[Mobile styles under here]------------------------------------------------------------------------------*/
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 800px){
   * { margin: 0; padding: 0; }
 
   body {
     background:url("http://www.uksoftech.com/wp-content/uploads/2016/02/website-design-background.png") center fixed;
-    background-size: contain;;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+    
 
 /*--[normal CSS styles]----------------------------------------------------------------*/
 
@@ -14,4 +18,7 @@
 
 body {
 background: url("http://www.uksoftech.com/wp-content/uploads/2016/02/website-design-background.png") center fixed;
-background-size: contain;;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover; }
