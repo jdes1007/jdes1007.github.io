@@ -9,7 +9,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
 }
-img.picture {display: block; margin: 0px auto;border 5px}
+.picture {display: block; margin: 0px auto;border 5px}
 
 /*--[normal CSS styles]----------------------------------------------------------------*/
 
