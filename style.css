@@ -1,6 +1,6 @@
 /*--[Mobile styles under here]------------------------------------------------------------------------------*/
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 320px){
   * { margin: 0; padding: 0; }
 
   body,html {
